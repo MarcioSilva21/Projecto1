@@ -17,6 +17,6 @@ public class PL5 {
         // TODO code application logic here
         System.out.println("Linha 1");
         System.out.println("Linha 2");
-        System.out.println("Linha 4");
+        System.out.println("Linha 3");
     }
 }
