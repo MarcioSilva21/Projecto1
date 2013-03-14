@@ -20,5 +20,6 @@ public class PL5 {
         System.out.println("Linha 3");
         System.out.println("Linha 4");
         System.out.println("Linha 5");
+        System.out.println("Linha6");
     }
 }
